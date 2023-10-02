@@ -1,0 +1,14 @@
+C:\Users\efe33\OneDrive\Masaüstü\Ders\ders_001\ders_001\bin\Debug\net6.0\ders_001.exe
+C:\Users\efe33\OneDrive\Masaüstü\Ders\ders_001\ders_001\bin\Debug\net6.0\ders_001.deps.json
+C:\Users\efe33\OneDrive\Masaüstü\Ders\ders_001\ders_001\bin\Debug\net6.0\ders_001.runtimeconfig.json
+C:\Users\efe33\OneDrive\Masaüstü\Ders\ders_001\ders_001\bin\Debug\net6.0\ders_001.dll
+C:\Users\efe33\OneDrive\Masaüstü\Ders\ders_001\ders_001\bin\Debug\net6.0\ders_001.pdb
+C:\Users\efe33\OneDrive\Masaüstü\Ders\ders_001\ders_001\obj\Debug\net6.0\ders_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efe33\OneDrive\Masaüstü\Ders\ders_001\ders_001\obj\Debug\net6.0\ders_001.AssemblyInfoInputs.cache
+C:\Users\efe33\OneDrive\Masaüstü\Ders\ders_001\ders_001\obj\Debug\net6.0\ders_001.AssemblyInfo.cs
+C:\Users\efe33\OneDrive\Masaüstü\Ders\ders_001\ders_001\obj\Debug\net6.0\ders_001.csproj.CoreCompileInputs.cache
+C:\Users\efe33\OneDrive\Masaüstü\Ders\ders_001\ders_001\obj\Debug\net6.0\ders_001.dll
+C:\Users\efe33\OneDrive\Masaüstü\Ders\ders_001\ders_001\obj\Debug\net6.0\refint\ders_001.dll
+C:\Users\efe33\OneDrive\Masaüstü\Ders\ders_001\ders_001\obj\Debug\net6.0\ders_001.pdb
+C:\Users\efe33\OneDrive\Masaüstü\Ders\ders_001\ders_001\obj\Debug\net6.0\ders_001.genruntimeconfig.cache
+C:\Users\efe33\OneDrive\Masaüstü\Ders\ders_001\ders_001\obj\Debug\net6.0\ref\ders_001.dll
