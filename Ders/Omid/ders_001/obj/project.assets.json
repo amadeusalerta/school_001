@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\efe33\\OneDrive\\Masaüstü\\Ders\\ders_001\\ders_001\\ders_001.csproj",
+      "projectUniqueName": "C:\\Users\\efe33\\OneDrive\\Documents\\GitHub\\school_001\\Ders\\Omid\\ders_001\\ders_001.csproj",
       "projectName": "ders_001",
-      "projectPath": "C:\\Users\\efe33\\OneDrive\\Masaüstü\\Ders\\ders_001\\ders_001\\ders_001.csproj",
+      "projectPath": "C:\\Users\\efe33\\OneDrive\\Documents\\GitHub\\school_001\\Ders\\Omid\\ders_001\\ders_001.csproj",
       "packagesPath": "C:\\Users\\efe33\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\efe33\\OneDrive\\Masaüstü\\Ders\\ders_001\\ders_001\\obj\\",
+      "outputPath": "C:\\Users\\efe33\\OneDrive\\Documents\\GitHub\\school_001\\Ders\\Omid\\ders_001\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\efe33\\AppData\\Roaming\\NuGet\\NuGet.Config",
