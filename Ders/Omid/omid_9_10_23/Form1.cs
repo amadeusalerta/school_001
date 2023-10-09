@@ -16,5 +16,21 @@ namespace omid_9_10_23
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hello World");
+            bomb.Text = "OK";
+        }
+
+        private void ShowList_Click(object sender, EventArgs e)
+        {
+            liste.Visible = true;
+        }
+
+        private void liste_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

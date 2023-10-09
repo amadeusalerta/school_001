@@ -31,8 +31,10 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             checkBox1 = new CheckBox();
             button1 = new Button();
-            textBox1 = new TextBox();
+            bomb = new TextBox();
             pictureBox1 = new PictureBox();
+            liste = new ListBox();
+            ShowList = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -55,32 +57,56 @@
             button1.TabIndex = 1;
             button1.Text = "Nuke Serbs";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
-            // textBox1
+            // bomb
             // 
-            textBox1.Location = new Point(93, 10);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(261, 23);
-            textBox1.TabIndex = 3;
-            textBox1.Text = "I suggesting to bomb Belgrade - Darth Brandon";
-            textBox1.TextChanged += textBox1_TextChanged;
+            bomb.Location = new Point(93, 10);
+            bomb.Name = "bomb";
+            bomb.Size = new Size(261, 23);
+            bomb.TabIndex = 3;
+            bomb.Text = "I suggesting to bomb Belgrade - Darth Brandon";
+            bomb.TextChanged += textBox1_TextChanged;
             // 
             // pictureBox1
             // 
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(244, 41);
+            pictureBox1.Location = new Point(452, 41);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(544, 397);
+            pictureBox1.Size = new Size(336, 397);
             pictureBox1.TabIndex = 4;
             pictureBox1.TabStop = false;
+            // 
+            // liste
+            // 
+            liste.FormattingEnabled = true;
+            liste.ItemHeight = 15;
+            liste.Location = new Point(93, 41);
+            liste.Name = "liste";
+            liste.Size = new Size(261, 394);
+            liste.TabIndex = 5;
+            liste.Visible = false;
+            liste.SelectedIndexChanged += liste_SelectedIndexChanged;
+            // 
+            // ShowList
+            // 
+            ShowList.Location = new Point(12, 41);
+            ShowList.Name = "ShowList";
+            ShowList.Size = new Size(75, 23);
+            ShowList.TabIndex = 6;
+            ShowList.Text = "button2";
+            ShowList.UseVisualStyleBackColor = true;
+            ShowList.Click += ShowList_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(ShowList);
+            Controls.Add(liste);
             Controls.Add(pictureBox1);
-            Controls.Add(textBox1);
+            Controls.Add(bomb);
             Controls.Add(button1);
             Controls.Add(checkBox1);
             Name = "Form1";
@@ -94,7 +120,9 @@
 
         private CheckBox checkBox1;
         private Button button1;
-        private TextBox textBox1;
+        private TextBox bomb;
         private PictureBox pictureBox1;
+        private ListBox liste;
+        private Button ShowList;
     }
 }

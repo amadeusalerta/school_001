@@ -1,0 +1,17 @@
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\omid_9_10_23\bin\Debug\net6.0-windows\omid_9_10_23.exe
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\omid_9_10_23\bin\Debug\net6.0-windows\omid_9_10_23.deps.json
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\omid_9_10_23\bin\Debug\net6.0-windows\omid_9_10_23.runtimeconfig.json
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\omid_9_10_23\bin\Debug\net6.0-windows\omid_9_10_23.dll
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\omid_9_10_23\bin\Debug\net6.0-windows\omid_9_10_23.pdb
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\omid_9_10_23\obj\Debug\net6.0-windows\omid_9_10_23.Form1.resources
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\omid_9_10_23\obj\Debug\net6.0-windows\omid_9_10_23.Properties.Resources.resources
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\omid_9_10_23\obj\Debug\net6.0-windows\omid_9_10_23.csproj.GenerateResource.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\omid_9_10_23\obj\Debug\net6.0-windows\omid_9_10_23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\omid_9_10_23\obj\Debug\net6.0-windows\omid_9_10_23.AssemblyInfoInputs.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\omid_9_10_23\obj\Debug\net6.0-windows\omid_9_10_23.AssemblyInfo.cs
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\omid_9_10_23\obj\Debug\net6.0-windows\omid_9_10_23.csproj.CoreCompileInputs.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\omid_9_10_23\obj\Debug\net6.0-windows\omid_9_10_23.dll
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\omid_9_10_23\obj\Debug\net6.0-windows\refint\omid_9_10_23.dll
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\omid_9_10_23\obj\Debug\net6.0-windows\omid_9_10_23.pdb
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\omid_9_10_23\obj\Debug\net6.0-windows\omid_9_10_23.genruntimeconfig.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\omid_9_10_23\obj\Debug\net6.0-windows\ref\omid_9_10_23.dll
