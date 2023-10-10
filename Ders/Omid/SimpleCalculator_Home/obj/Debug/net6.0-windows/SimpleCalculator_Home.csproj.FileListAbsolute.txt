@@ -1,0 +1,16 @@
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\SimpleCalculator_Home\bin\Debug\net6.0-windows\SimpleCalculator_Home.exe
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\SimpleCalculator_Home\bin\Debug\net6.0-windows\SimpleCalculator_Home.deps.json
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\SimpleCalculator_Home\bin\Debug\net6.0-windows\SimpleCalculator_Home.runtimeconfig.json
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\SimpleCalculator_Home\bin\Debug\net6.0-windows\SimpleCalculator_Home.dll
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\SimpleCalculator_Home\bin\Debug\net6.0-windows\SimpleCalculator_Home.pdb
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\SimpleCalculator_Home\obj\Debug\net6.0-windows\SimpleCalculator_Home.Form1.resources
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\SimpleCalculator_Home\obj\Debug\net6.0-windows\SimpleCalculator_Home.csproj.GenerateResource.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\SimpleCalculator_Home\obj\Debug\net6.0-windows\SimpleCalculator_Home.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\SimpleCalculator_Home\obj\Debug\net6.0-windows\SimpleCalculator_Home.AssemblyInfoInputs.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\SimpleCalculator_Home\obj\Debug\net6.0-windows\SimpleCalculator_Home.AssemblyInfo.cs
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\SimpleCalculator_Home\obj\Debug\net6.0-windows\SimpleCalculator_Home.csproj.CoreCompileInputs.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\SimpleCalculator_Home\obj\Debug\net6.0-windows\SimpleCalculator_Home.dll
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\SimpleCalculator_Home\obj\Debug\net6.0-windows\refint\SimpleCalculator_Home.dll
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\SimpleCalculator_Home\obj\Debug\net6.0-windows\SimpleCalculator_Home.pdb
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\SimpleCalculator_Home\obj\Debug\net6.0-windows\SimpleCalculator_Home.genruntimeconfig.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\SimpleCalculator_Home\obj\Debug\net6.0-windows\ref\SimpleCalculator_Home.dll
