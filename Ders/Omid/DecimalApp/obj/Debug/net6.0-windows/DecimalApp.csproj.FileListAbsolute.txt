@@ -1,0 +1,16 @@
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\DecimalApp\bin\Debug\net6.0-windows\DecimalApp.exe
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\DecimalApp\bin\Debug\net6.0-windows\DecimalApp.deps.json
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\DecimalApp\bin\Debug\net6.0-windows\DecimalApp.runtimeconfig.json
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\DecimalApp\bin\Debug\net6.0-windows\DecimalApp.dll
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\DecimalApp\bin\Debug\net6.0-windows\DecimalApp.pdb
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\DecimalApp\obj\Debug\net6.0-windows\DecimalApp.Form1.resources
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\DecimalApp\obj\Debug\net6.0-windows\DecimalApp.csproj.GenerateResource.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\DecimalApp\obj\Debug\net6.0-windows\DecimalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\DecimalApp\obj\Debug\net6.0-windows\DecimalApp.AssemblyInfoInputs.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\DecimalApp\obj\Debug\net6.0-windows\DecimalApp.AssemblyInfo.cs
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\DecimalApp\obj\Debug\net6.0-windows\DecimalApp.csproj.CoreCompileInputs.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\DecimalApp\obj\Debug\net6.0-windows\DecimalApp.dll
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\DecimalApp\obj\Debug\net6.0-windows\refint\DecimalApp.dll
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\DecimalApp\obj\Debug\net6.0-windows\DecimalApp.pdb
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\DecimalApp\obj\Debug\net6.0-windows\DecimalApp.genruntimeconfig.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\DecimalApp\obj\Debug\net6.0-windows\ref\DecimalApp.dll

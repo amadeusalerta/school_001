@@ -1,0 +1,16 @@
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\UppercaseProgram\bin\Debug\net6.0-windows\UppercaseProgram.exe
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\UppercaseProgram\bin\Debug\net6.0-windows\UppercaseProgram.deps.json
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\UppercaseProgram\bin\Debug\net6.0-windows\UppercaseProgram.runtimeconfig.json
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\UppercaseProgram\bin\Debug\net6.0-windows\UppercaseProgram.dll
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\UppercaseProgram\bin\Debug\net6.0-windows\UppercaseProgram.pdb
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\UppercaseProgram\obj\Debug\net6.0-windows\UppercaseProgram.Form1.resources
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\UppercaseProgram\obj\Debug\net6.0-windows\UppercaseProgram.csproj.GenerateResource.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\UppercaseProgram\obj\Debug\net6.0-windows\UppercaseProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\UppercaseProgram\obj\Debug\net6.0-windows\UppercaseProgram.AssemblyInfoInputs.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\UppercaseProgram\obj\Debug\net6.0-windows\UppercaseProgram.AssemblyInfo.cs
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\UppercaseProgram\obj\Debug\net6.0-windows\UppercaseProgram.csproj.CoreCompileInputs.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\UppercaseProgram\obj\Debug\net6.0-windows\UppercaseProgram.dll
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\UppercaseProgram\obj\Debug\net6.0-windows\refint\UppercaseProgram.dll
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\UppercaseProgram\obj\Debug\net6.0-windows\UppercaseProgram.pdb
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\UppercaseProgram\obj\Debug\net6.0-windows\UppercaseProgram.genruntimeconfig.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\UppercaseProgram\obj\Debug\net6.0-windows\ref\UppercaseProgram.dll

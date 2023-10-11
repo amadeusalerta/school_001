@@ -1,0 +1,16 @@
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\StudentApp01\bin\Debug\net6.0-windows\StudentApp01.exe
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\StudentApp01\bin\Debug\net6.0-windows\StudentApp01.deps.json
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\StudentApp01\bin\Debug\net6.0-windows\StudentApp01.runtimeconfig.json
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\StudentApp01\bin\Debug\net6.0-windows\StudentApp01.dll
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\StudentApp01\bin\Debug\net6.0-windows\StudentApp01.pdb
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\StudentApp01\obj\Debug\net6.0-windows\StudentApp01.Form1.resources
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\StudentApp01\obj\Debug\net6.0-windows\StudentApp01.csproj.GenerateResource.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\StudentApp01\obj\Debug\net6.0-windows\StudentApp01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\StudentApp01\obj\Debug\net6.0-windows\StudentApp01.AssemblyInfoInputs.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\StudentApp01\obj\Debug\net6.0-windows\StudentApp01.AssemblyInfo.cs
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\StudentApp01\obj\Debug\net6.0-windows\StudentApp01.csproj.CoreCompileInputs.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\StudentApp01\obj\Debug\net6.0-windows\StudentApp01.dll
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\StudentApp01\obj\Debug\net6.0-windows\refint\StudentApp01.dll
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\StudentApp01\obj\Debug\net6.0-windows\StudentApp01.pdb
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\StudentApp01\obj\Debug\net6.0-windows\StudentApp01.genruntimeconfig.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\StudentApp01\obj\Debug\net6.0-windows\ref\StudentApp01.dll
