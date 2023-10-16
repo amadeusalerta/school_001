@@ -1,0 +1,16 @@
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\16_10_23_02\bin\Debug\net6.0-windows\16_10_23_02.exe
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\16_10_23_02\bin\Debug\net6.0-windows\16_10_23_02.deps.json
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\16_10_23_02\bin\Debug\net6.0-windows\16_10_23_02.runtimeconfig.json
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\16_10_23_02\bin\Debug\net6.0-windows\16_10_23_02.dll
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\16_10_23_02\bin\Debug\net6.0-windows\16_10_23_02.pdb
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\16_10_23_02\obj\Debug\net6.0-windows\_16_10_23_02.Form1.resources
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\16_10_23_02\obj\Debug\net6.0-windows\16_10_23_02.csproj.GenerateResource.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\16_10_23_02\obj\Debug\net6.0-windows\16_10_23_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\16_10_23_02\obj\Debug\net6.0-windows\16_10_23_02.AssemblyInfoInputs.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\16_10_23_02\obj\Debug\net6.0-windows\16_10_23_02.AssemblyInfo.cs
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\16_10_23_02\obj\Debug\net6.0-windows\16_10_23_02.csproj.CoreCompileInputs.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\16_10_23_02\obj\Debug\net6.0-windows\16_10_23_02.dll
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\16_10_23_02\obj\Debug\net6.0-windows\refint\16_10_23_02.dll
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\16_10_23_02\obj\Debug\net6.0-windows\16_10_23_02.pdb
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\16_10_23_02\obj\Debug\net6.0-windows\16_10_23_02.genruntimeconfig.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\16_10_23_02\obj\Debug\net6.0-windows\ref\16_10_23_02.dll
