@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.top-left-bar {
+    display: flex;
+    flex-direction: row;
+    padding-top: 50px;
+    padding-left: 40px;
+    font-size: 17px;
+    padding-bottom: 30px;
+  }
+  
+  .a {
+    text-decoration: none;
+  }
+  
+  .left-part-text {
+    padding-right: 15px;
+    
+  }
+  
+  .middle-part-bar1,
+  .middle-part-bar2,
+  .middle-part-bar3,
+  .middle-part-bar4,
+  .middle-part-bar5,
+  .middle-part-bar6,
+  .middle-part-text  {
+    display: flex;
+    flex-direction: row;
+    font-size: 18px;
+    padding-right: 15px;
+  }
+  
+  .middle-part-text {
+    padding-bottom: 20px;
+  }

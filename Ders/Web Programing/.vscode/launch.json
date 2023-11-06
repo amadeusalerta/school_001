@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open 02_11_23.html",
+            "file": "c:\\Users\\efe33\\OneDrive\\Documents\\GitHub\\school_001\\Ders\\Web Programing\\02_11_23.html"
+        }
+    ]
+}
