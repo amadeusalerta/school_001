@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\efe33\\OneDrive\\Documents\\GitHub\\school_001\\Ders\\Omid\\16_10_2023\\16_10_2023.csproj": {}
+    "C:\\Users\\efe33\\OneDrive\\Documents\\GitHub\\school_001\\Ders\\Omid Lab\\08_11_2023\\WinFormsApp1\\WinFormsApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\efe33\\OneDrive\\Documents\\GitHub\\school_001\\Ders\\Omid\\16_10_2023\\16_10_2023.csproj": {
+    "C:\\Users\\efe33\\OneDrive\\Documents\\GitHub\\school_001\\Ders\\Omid Lab\\08_11_2023\\WinFormsApp1\\WinFormsApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\efe33\\OneDrive\\Documents\\GitHub\\school_001\\Ders\\Omid\\16_10_2023\\16_10_2023.csproj",
-        "projectName": "16_10_2023",
-        "projectPath": "C:\\Users\\efe33\\OneDrive\\Documents\\GitHub\\school_001\\Ders\\Omid\\16_10_2023\\16_10_2023.csproj",
+        "projectUniqueName": "C:\\Users\\efe33\\OneDrive\\Documents\\GitHub\\school_001\\Ders\\Omid Lab\\08_11_2023\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectName": "WinFormsApp1",
+        "projectPath": "C:\\Users\\efe33\\OneDrive\\Documents\\GitHub\\school_001\\Ders\\Omid Lab\\08_11_2023\\WinFormsApp1\\WinFormsApp1.csproj",
         "packagesPath": "C:\\Users\\efe33\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\efe33\\OneDrive\\Documents\\GitHub\\school_001\\Ders\\Omid\\16_10_2023\\obj\\",
+        "outputPath": "C:\\Users\\efe33\\OneDrive\\Documents\\GitHub\\school_001\\Ders\\Omid Lab\\08_11_2023\\WinFormsApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\efe33\\AppData\\Roaming\\NuGet\\NuGet.Config",
