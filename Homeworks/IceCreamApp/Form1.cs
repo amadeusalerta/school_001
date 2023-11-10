@@ -20,8 +20,19 @@ namespace IceCreamApp
         public int peanut_kcal = 30;
         public int hazenut_kcal = 45;
         public int anteplnut_kcal = 75;
-        public int total_price=0;
-        public int current_price=0;
+        public double total_price=0;
+        public double current_price=0;
+        public double total_calories=0;
+        public double current_calories = 0;
+
+        public int[] calories_of_diets = { 115,175,135,235};
+        public int[] calories_of_low_fats = { 125, 325, 225, 340 };
+        public int[] calories_of_fats = { 175, 365, 280, 400 };
+
+        public double[] price_of_diets = { 0.25,0.55,0.75,0.80};
+        public double[] price_of_low_fats = { 0.35, 0.65,0.85,0.90};
+        public double[] price_of_fats = { 0.40,0.80,0.85,1 };
+
 
 
         private void label3_Click(object sender, EventArgs e)
@@ -121,13 +132,52 @@ namespace IceCreamApp
             }
         }
 
+        private void radioButton4_CheckedChanged(object sender, EventArgs e)
+        {
+            if (radioButton4.Checked)
+            {
+                current_calories = current_calories + peanut_kcal;
+            }
+        }
+
+        private void radioButton5_CheckedChanged(object sender, EventArgs e)
+        {
+            if (radioButton4.Checked)
+            {
+                current_calories = current_calories + hazenut_kcal;
+            }
+        }
+
+        private void radioButton6_CheckedChanged(object sender, EventArgs e)
+        {
+            if (radioButton4.Checked)
+            {
+                current_calories = current_calories + anteplnut_kcal;
+            }
+        }
+
         private void checkedListBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            if (checkedListBox1.GetItemChecked(0)|| checkedListBox1.GetItemChecked(1)|| checkedListBox1.GetItemChecked(2)|| checkedListBox1.GetItemChecked(3)) 
+            if (checkedListBox1.GetItemChecked(0)) 
             {
-                groupBox4.Enabled = true;
-                groupBox5.Enabled = true;
+                numericUpDown1.Enabled = true;
             }
+
+            if (checkedListBox1.GetItemChecked(1))
+            {
+                numericUpDown2.Enabled = true;
+            }
+
+            if (checkedListBox1.GetItemChecked(2))
+            {
+                numericUpDown3.Enabled = true;
+            }
+
+            if (checkedListBox1.GetItemChecked(3))
+            {
+                numericUpDown4.Enabled = true;
+            }
+
         }
 
         private void numericUpDown1_ValueChanged(object sender, EventArgs e)
@@ -164,6 +214,7 @@ namespace IceCreamApp
                 groupBox4.Enabled = true;
                 groupBox5.Enabled = true;
             }
+
         }
 
         private void textBox3_TextChanged(object sender, EventArgs e)
@@ -173,12 +224,14 @@ namespace IceCreamApp
 
         private void textBox4_TextChanged(object sender, EventArgs e)
         {
-
+            current_calories = Convert.ToDouble(textBox3.Text);
+            textBox3.Text = current_calories.ToString();
         }
 
         private void textBox6_TextChanged(object sender, EventArgs e)
         {
 
         }
+
     }
 }

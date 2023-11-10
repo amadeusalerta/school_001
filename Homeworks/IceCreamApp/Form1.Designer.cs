@@ -216,6 +216,7 @@
             // 
             // numericUpDown4
             // 
+            this.numericUpDown4.Enabled = false;
             this.numericUpDown4.Location = new System.Drawing.Point(102, 97);
             this.numericUpDown4.Name = "numericUpDown4";
             this.numericUpDown4.Size = new System.Drawing.Size(102, 20);
@@ -224,6 +225,7 @@
             // 
             // numericUpDown3
             // 
+            this.numericUpDown3.Enabled = false;
             this.numericUpDown3.Location = new System.Drawing.Point(102, 71);
             this.numericUpDown3.Name = "numericUpDown3";
             this.numericUpDown3.Size = new System.Drawing.Size(102, 20);
@@ -232,6 +234,7 @@
             // 
             // numericUpDown2
             // 
+            this.numericUpDown2.Enabled = false;
             this.numericUpDown2.Location = new System.Drawing.Point(102, 45);
             this.numericUpDown2.Name = "numericUpDown2";
             this.numericUpDown2.Size = new System.Drawing.Size(102, 20);
@@ -240,6 +243,7 @@
             // 
             // numericUpDown1
             // 
+            this.numericUpDown1.Enabled = false;
             this.numericUpDown1.Location = new System.Drawing.Point(102, 19);
             this.numericUpDown1.Name = "numericUpDown1";
             this.numericUpDown1.Size = new System.Drawing.Size(102, 20);
@@ -257,7 +261,7 @@
             "Ice Chocolate"});
             this.checkedListBox1.Location = new System.Drawing.Point(1, 29);
             this.checkedListBox1.Name = "checkedListBox1";
-            this.checkedListBox1.Size = new System.Drawing.Size(95, 88);
+            this.checkedListBox1.Size = new System.Drawing.Size(95, 72);
             this.checkedListBox1.TabIndex = 0;
             this.checkedListBox1.SelectedIndexChanged += new System.EventHandler(this.checkedListBox1_SelectedIndexChanged);
             // 
@@ -282,9 +286,9 @@
             this.radioButton6.Name = "radioButton6";
             this.radioButton6.Size = new System.Drawing.Size(73, 17);
             this.radioButton6.TabIndex = 2;
-            this.radioButton6.TabStop = true;
             this.radioButton6.Text = "Antep Nut";
             this.radioButton6.UseVisualStyleBackColor = true;
+            this.radioButton6.CheckedChanged += new System.EventHandler(this.radioButton6_CheckedChanged);
             // 
             // radioButton5
             // 
@@ -293,9 +297,9 @@
             this.radioButton5.Name = "radioButton5";
             this.radioButton5.Size = new System.Drawing.Size(72, 17);
             this.radioButton5.TabIndex = 1;
-            this.radioButton5.TabStop = true;
             this.radioButton5.Text = "Hazel Nut";
             this.radioButton5.UseVisualStyleBackColor = true;
+            this.radioButton5.CheckedChanged += new System.EventHandler(this.radioButton5_CheckedChanged);
             // 
             // radioButton4
             // 
@@ -304,9 +308,9 @@
             this.radioButton4.Name = "radioButton4";
             this.radioButton4.Size = new System.Drawing.Size(59, 17);
             this.radioButton4.TabIndex = 0;
-            this.radioButton4.TabStop = true;
             this.radioButton4.Text = "Peanut";
             this.radioButton4.UseVisualStyleBackColor = true;
+            this.radioButton4.CheckedChanged += new System.EventHandler(this.radioButton4_CheckedChanged);
             // 
             // groupBox5
             // 
