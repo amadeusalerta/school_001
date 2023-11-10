@@ -1,0 +1,10 @@
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Homeworks\IceCreamApp\bin\Debug\IceCreamApp.exe.config
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Homeworks\IceCreamApp\bin\Debug\IceCreamApp.exe
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Homeworks\IceCreamApp\bin\Debug\IceCreamApp.pdb
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Homeworks\IceCreamApp\obj\Debug\IceCreamApp.csproj.AssemblyReference.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Homeworks\IceCreamApp\obj\Debug\IceCreamApp.Form1.resources
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Homeworks\IceCreamApp\obj\Debug\IceCreamApp.Properties.Resources.resources
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Homeworks\IceCreamApp\obj\Debug\IceCreamApp.csproj.GenerateResource.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Homeworks\IceCreamApp\obj\Debug\IceCreamApp.csproj.CoreCompileInputs.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Homeworks\IceCreamApp\obj\Debug\IceCreamApp.exe
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Homeworks\IceCreamApp\obj\Debug\IceCreamApp.pdb
