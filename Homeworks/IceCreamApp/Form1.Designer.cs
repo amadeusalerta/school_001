@@ -63,7 +63,7 @@
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
-            this.ımageList2 = new System.Windows.Forms.ImageList(this.components);
+            this.imageList1 = new System.Windows.Forms.ImageList(this.components);
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
@@ -337,6 +337,7 @@
             this.numericUpDown5.Name = "numericUpDown5";
             this.numericUpDown5.Size = new System.Drawing.Size(49, 20);
             this.numericUpDown5.TabIndex = 5;
+            this.numericUpDown5.ValueChanged += new System.EventHandler(this.numericUpDown5_ValueChanged);
             // 
             // textBox6
             // 
@@ -428,6 +429,7 @@
             this.pictureBox2.Size = new System.Drawing.Size(64, 64);
             this.pictureBox2.TabIndex = 5;
             this.pictureBox2.TabStop = false;
+            this.pictureBox2.Click += new System.EventHandler(this.pictureBox2_Click);
             // 
             // pictureBox1
             // 
@@ -436,6 +438,7 @@
             this.pictureBox1.Size = new System.Drawing.Size(64, 64);
             this.pictureBox1.TabIndex = 4;
             this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // pictureBox4
             // 
@@ -444,18 +447,20 @@
             this.pictureBox4.Size = new System.Drawing.Size(64, 64);
             this.pictureBox4.TabIndex = 3;
             this.pictureBox4.TabStop = false;
+            this.pictureBox4.Click += new System.EventHandler(this.pictureBox4_Click);
             // 
-            // ımageList2
+            // imageList1
             // 
-            this.ımageList2.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("ımageList2.ImageStream")));
-            this.ımageList2.TransparentColor = System.Drawing.Color.Transparent;
-            this.ımageList2.Images.SetKeyName(0, "bananaice.png");
-            this.ımageList2.Images.SetKeyName(1, "chocomanice.png");
-            this.ımageList2.Images.SetKeyName(2, "cilekice.png");
-            this.ımageList2.Images.SetKeyName(3, "lemonice.png");
+            this.imageList1.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("imageList1.ImageStream")));
+            this.imageList1.TransparentColor = System.Drawing.Color.Transparent;
+            this.imageList1.Images.SetKeyName(0, "bananaice.png");
+            this.imageList1.Images.SetKeyName(1, "chocomanice.png");
+            this.imageList1.Images.SetKeyName(2, "cilekice.png");
+            this.imageList1.Images.SetKeyName(3, "lemonice.png");
             // 
             // button1
             // 
+            this.button1.Enabled = false;
             this.button1.Location = new System.Drawing.Point(466, 35);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(81, 56);
@@ -466,6 +471,7 @@
             // 
             // button2
             // 
+            this.button2.Enabled = false;
             this.button2.Location = new System.Drawing.Point(579, 35);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(81, 56);
@@ -502,7 +508,7 @@
             this.groupBox7.Controls.Add(this.listView1);
             this.groupBox7.Location = new System.Drawing.Point(247, 230);
             this.groupBox7.Name = "groupBox7";
-            this.groupBox7.Size = new System.Drawing.Size(638, 380);
+            this.groupBox7.Size = new System.Drawing.Size(712, 380);
             this.groupBox7.TabIndex = 14;
             this.groupBox7.TabStop = false;
             this.groupBox7.Text = "Invoice";
@@ -513,6 +519,7 @@
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(100, 20);
             this.textBox5.TabIndex = 5;
+            this.textBox5.TextChanged += new System.EventHandler(this.textBox5_TextChanged);
             // 
             // label7
             // 
@@ -546,10 +553,11 @@
             this.listView1.HideSelection = false;
             this.listView1.Location = new System.Drawing.Point(7, 20);
             this.listView1.Name = "listView1";
-            this.listView1.Size = new System.Drawing.Size(625, 312);
+            this.listView1.Size = new System.Drawing.Size(691, 312);
             this.listView1.TabIndex = 0;
             this.listView1.UseCompatibleStateImageBehavior = false;
             this.listView1.View = System.Windows.Forms.View.Details;
+            this.listView1.SelectedIndexChanged += new System.EventHandler(this.listView1_SelectedIndexChanged);
             // 
             // IceCreams
             // 
@@ -588,7 +596,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(897, 624);
+            this.ClientSize = new System.Drawing.Size(971, 624);
             this.Controls.Add(this.groupBox7);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
@@ -661,7 +669,7 @@
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.PictureBox pictureBox4;
-        private System.Windows.Forms.ImageList ımageList2;
+        private System.Windows.Forms.ImageList imageList1;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
