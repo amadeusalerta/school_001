@@ -1,0 +1,10 @@
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid Lab\2\Student_App_Info_Data\obj\Debug\Student_App_Info_Data.csproj.AssemblyReference.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid Lab\2\Student_App_Info_Data\obj\Debug\Student_App_Info_Data.Properties.Resources.resources
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid Lab\2\Student_App_Info_Data\obj\Debug\Student_App_Info_Data.csproj.GenerateResource.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid Lab\2\Student_App_Info_Data\obj\Debug\Student_App_Info_Data.csproj.CoreCompileInputs.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid Lab\2\Student_App_Info_Data\bin\Debug\Student_App_Info_Data.exe.config
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid Lab\2\Student_App_Info_Data\bin\Debug\Student_App_Info_Data.exe
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid Lab\2\Student_App_Info_Data\bin\Debug\Student_App_Info_Data.pdb
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid Lab\2\Student_App_Info_Data\obj\Debug\Student_App_Info_Data.exe
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid Lab\2\Student_App_Info_Data\obj\Debug\Student_App_Info_Data.pdb
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid Lab\2\Student_App_Info_Data\obj\Debug\Student_App_Info_Data.Form1.resources
