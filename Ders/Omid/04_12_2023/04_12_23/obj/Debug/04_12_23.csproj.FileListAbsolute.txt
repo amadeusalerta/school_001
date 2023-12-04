@@ -1,0 +1,10 @@
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\04_12_2023\04_12_23\bin\Debug\04_12_23.exe.config
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\04_12_2023\04_12_23\bin\Debug\04_12_23.exe
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\04_12_2023\04_12_23\bin\Debug\04_12_23.pdb
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\04_12_2023\04_12_23\obj\Debug\04_12_23.csproj.AssemblyReference.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\04_12_2023\04_12_23\obj\Debug\_04_12_23.Form1.resources
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\04_12_2023\04_12_23\obj\Debug\_04_12_23.Properties.Resources.resources
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\04_12_2023\04_12_23\obj\Debug\04_12_23.csproj.GenerateResource.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\04_12_2023\04_12_23\obj\Debug\04_12_23.csproj.CoreCompileInputs.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\04_12_2023\04_12_23\obj\Debug\04_12_23.exe
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\04_12_2023\04_12_23\obj\Debug\04_12_23.pdb
