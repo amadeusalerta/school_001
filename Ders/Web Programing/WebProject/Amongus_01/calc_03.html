@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Arithmatic Operations</title>
+<style>
+body {
+ background-color: yellow;
+ font-family: Arial, sans-serif;
+}
+.container {
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ width: 100%;
+ max-width: 400px;
+ margin: 0 auto;
+}
+input[type="text"] {
+ margin-bottom: 10px;
+ padding: 10px;
+}
+button {
+ margin-right: 10px;
+ padding: 10px 20px;
+}
+.result {
+ margin-top: 10px;
+ padding: 10px;
+}
+.error {
+ color: red;
+}
+
+.buttons {
+flex-direction: row;
+}
+
+hr {
+    background-color: red;
+    height: 3px;
+    width: 500%;
+}
+</style>
+</head>
+<body>
+
+    <center>
+        <h1>Arithmatic Operations</h1>
+    </center>
+<hr>
+
+<div class="container">
+ <p class="error"></p>
+ <p>Enter a Number in each text box</p>
+ <label>Number 1</label>
+ <input type="text" id="number1" />
+ <label>Number 2</label>
+ <input type="text" id="number2" />
+ <br>
+<div class="buttons">
+ <button onclick="addition()">+</button>
+ <button onclick="subtraction()">-</button>
+ <button onclick="multiplication()">*</button>
+ <button onclick="division()">/</button>
+</div>
+ <label>Result</label>
+ <input type="text" id="result" readonly />
+</div>
+
+<script>
+function validateInputs() {
+ const number1 = document.getElementById("number1").value;
+ const number2 = document.getElementById("number2").value;
+ if (isNaN(number1) || isNaN(number2)) {
+    document.getElementsByClassName("error")[0].innerHTML = "Error: Both inputs should be numbers.";
+    return false;
+ }
+ document.getElementsByClassName("error")[0].innerHTML = "";
+ return true;
+}
+
+function addition() {
+ if (validateInputs()) {
+    const number1 = parseFloat(document.getElementById("number1").value);
+    const number2 = parseFloat(document.getElementById("number2").value);
+    document.getElementById("result").value = number1 + number2;
+ }
+}
+
+function subtraction() {
+ if (validateInputs()) {
+    const number1 = parseFloat(document.getElementById("number1").value);
+    const number2 = parseFloat(document.getElementById("number2").value);
+    document.getElementById("result").value = number1 - number2;
+ }
+}
+
+function multiplication() {
+ if (validateInputs()) {
+    const number1 = parseFloat(document.getElementById("number1").value);
+    const number2 = parseFloat(document.getElementById("number2").value);
+    document.getElementById("result").value = number1 * number2;
+ }
+}
+
+function division() {
+ if (validateInputs()) {
+    const number1 = parseFloat(document.getElementById("number1").value);
+    const number2 = parseFloat(document.getElementById("number2").value);
+    if (number2 === 0) {
+      document.getElementsByClassName("error")[0].innerHTML = "Error: Division by zero is not allowed.";
+      return;
+    }
+    document.getElementById("result").value = number1 / number2;
+ }
+}
+</script>
+
+</body>
+</html>
