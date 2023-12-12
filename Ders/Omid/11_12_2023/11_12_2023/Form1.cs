@@ -33,11 +33,20 @@ namespace _11_12_2023
         private void button3_Click(object sender, EventArgs e)
         {
             MyClass1 obj1 = new MyClass1();
+            MyClass1 obj2= new MyClass1();
 
             obj1.MyProperty = 10;
+            obj2.MyProperty_02 = 30;
 
             int value = obj1.MyProperty;
-            textBox3.Text=value.ToString();
+            int value_02 = obj2.MyProperty_02;
+            textBox3.Text=value.ToString()+" "+value_02.ToString();
+
+            MyClassRoom object_01= new MyClassRoom();
+            object_01.degerat(12, 254);
+            var MyClassRoom =object_01.GetGrades();
+            textBox4.Text = MyClassRoom.Item1.ToString();
+            textBox5.Text = MyClassRoom.Item2.ToString();
         }
 
         private void button2_Click(object sender, EventArgs e)
