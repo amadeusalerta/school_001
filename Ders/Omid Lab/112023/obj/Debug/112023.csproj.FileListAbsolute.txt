@@ -1,0 +1,5 @@
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid Lab\112023\obj\Debug\112023.csproj.AssemblyReference.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid Lab\112023\obj\Debug\_112023.Form1.resources
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid Lab\112023\obj\Debug\_112023.Properties.Resources.resources
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid Lab\112023\obj\Debug\112023.csproj.GenerateResource.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid Lab\112023\obj\Debug\112023.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid Lab\13_12_23_02\bin\Debug\13_12_23_02.exe.config
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid Lab\13_12_23_02\bin\Debug\13_12_23_02.exe
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid Lab\13_12_23_02\bin\Debug\13_12_23_02.pdb
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid Lab\13_12_23_02\obj\Debug\13_12_23_02.csproj.AssemblyReference.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid Lab\13_12_23_02\obj\Debug\_13_12_23_02.Form1.resources
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid Lab\13_12_23_02\obj\Debug\_13_12_23_02.Properties.Resources.resources
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid Lab\13_12_23_02\obj\Debug\13_12_23_02.csproj.GenerateResource.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid Lab\13_12_23_02\obj\Debug\13_12_23_02.csproj.CoreCompileInputs.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid Lab\13_12_23_02\obj\Debug\13_12_23_02.exe
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid Lab\13_12_23_02\obj\Debug\13_12_23_02.pdb

@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>XOXO Game</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        .game {
+            display: grid;
+            grid-template-columns: repeat(3, 100px);
+            grid-template-rows: repeat(3, 100px);
+            gap: 10px;
+            border: 2px solid #000;
+            padding: 10px;
+            background-color: #fff;
+        }
+        .cell {
+            width: 100px;
+            height: 100px;
+            border: 1px solid #000;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 24px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+        .cell:hover {
+            background-color: #ddd;
+        }
+        .win {
+            background-color: #5c6bc0;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <div class="game"></div>
+    <script>
+        const cells = document.querySelectorAll('.cell');
+        const game = document.querySelector('.game');
+        let player = 'X';
+        let currentWinner = '';
+
+        const winningConditions = [
+            [0, 1, 2],
+            [3, 4, 5],
+            [6, 7, 8],
+            [0, 3, 6],
+            [1, 4, 7],
+            [2, 5, 8],
+            [0, 4, 8],
+            [2, 4, 6]
+        ];
+
+        const checkForWin = () => {
+            for (let condition of winningConditions) {
+                const a = condition[0];
+                const b = condition[1];
+                const c = condition[2];
+                if (cells[a].classList.contains('x') &&
+                    cells[b].classList.contains('x') &&
+                    cells[c].classList.contains('x')) {
+                    currentWinner = 'X';
+                    return true;
+                } else if (cells[a].classList.contains('o') &&
+                    cells[b].classList.contains('o') &&
+                    cells[c].classList.contains('o')) {
+                    currentWinner = 'O';
+                    return true;
+                }
+            }
+            return false;
+        };
+
+        const checkForTie = () => {
+            for (let i = 0; i < cells.length; i++) {
+                if (!cells[i].classList.contains('x') && !cells[i].classList.contains('o')) {
+                    return false;
+                }
+            }
+            return true;
+        };
+
+        cells.forEach((cell, i) => {
+            cell.addEventListener('click', () => {
+                if (!cell.classList.contains('x') && !cell.classList.contains('o')) {
+                    cell.classList.add(player);
+                    if (checkForWin()) {
+                        game.classList.add('win');
+                        game.classList.add(currentWinner);
+                    } else if (checkForTie()) {
+                        game.classList.add('win');
+                        game.classList.add('tie');
+                    } else {
+                        player = player === 'X' ? 'O' : 'X';
+                    }
+                }
+            });
+        });
+    </script>
+</body>
+</html>
