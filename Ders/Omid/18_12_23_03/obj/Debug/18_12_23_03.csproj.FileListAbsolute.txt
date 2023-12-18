@@ -1,0 +1,7 @@
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\18_12_23_03\bin\Debug\18_12_23_03.exe.config
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\18_12_23_03\bin\Debug\18_12_23_03.exe
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\18_12_23_03\bin\Debug\18_12_23_03.pdb
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\18_12_23_03\obj\Debug\18_12_23_03.csproj.AssemblyReference.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\18_12_23_03\obj\Debug\18_12_23_03.csproj.CoreCompileInputs.cache
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\18_12_23_03\obj\Debug\18_12_23_03.exe
+C:\Users\efe33\OneDrive\Documents\GitHub\school_001\Ders\Omid\18_12_23_03\obj\Debug\18_12_23_03.pdb
